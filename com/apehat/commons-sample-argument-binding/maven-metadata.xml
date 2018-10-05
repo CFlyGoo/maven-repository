@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.apehat</groupId>
+  <artifactId>commons-sample-argument-binding</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181005055243</lastUpdated>
+  </versioning>
+</metadata>
