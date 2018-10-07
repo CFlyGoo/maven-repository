@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.apehat</groupId>
-  <artifactId>commons</artifactId>
+  <artifactId>commons-sample-clone</artifactId>
   <versioning>
     <versions>
-      <version>0.0.2-SNAPSHOT</version>
       <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181007162401</lastUpdated>
+    <lastUpdated>20181007162402</lastUpdated>
   </versioning>
 </metadata>
